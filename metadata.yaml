@@ -1,0 +1,29 @@
+_repo: -Three-Score-Years-and-Ten---13-Parts-of-the-West_20232
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Van Cleve, Charlotte Ouisconsin Clark
+    birthdate: 1819
+    deathdate: 1907
+    gutenberg_agent_id: '9176'
+    url: http://www.gutenberg.org/2009/agents/9176
+description: ''
+gutenberg_issued: '2006-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20232'
+  lccn: '13022937'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fort Snelling (Minn.)'
+- !lcsh 'Frontier and pioneer life -- Minnesota'
+- !lcc 'F590.3'
+title: "'Three Score Years and Ten'\r\nLife-Long Memories of Fort Snelling, Minnesota,\
+  \ and Other\r\nParts of the West"
+url: http://www.gutenberg.org/ebooks/20232
